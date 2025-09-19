@@ -1,4 +1,4 @@
-  <p>I’m Max. I make random stuff but I’m not really ever committed to anything I make, really. I’m from the UK. I can’t spell nowt. Despite my commit history, I do actually have a life and don’t spend my whole life on this app. Yes, I do have GitHub Mobile, but at least I don’t use Discord (only ‘cause bro won’t hop on 😡).</p>
+  <p>I’m Max. I make random stuff but I’m not really ever committed to anything I make, really. I’m from the UK. I can’t spell nowt. Despite my commit history, I do actually have a life and don’t spend my whole life on this app.</p>
 
   <p>I code on a Mac but also use Windows sorta or something like that. Used Linux at one point, and all my servers run on it. I say that like I have tonnes of servers, but really I don’t. They run Ubuntu. I 3D print all sorts of stuff, mainly things in 3D yk, but like most of the time it just makes spaghetti. But that’s alright, ’cause I like spaghetti and I get hungry sometimes.</p>
 
